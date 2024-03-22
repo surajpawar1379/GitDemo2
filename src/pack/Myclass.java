@@ -95,8 +95,6 @@ public class Myclass {
 					}		
 				
 			}System.out.println(word[i] + " :" + count);
-			System.out.println(word[i] + " :" + count);
-			System.out.println(word[i] + " :" + count);
 			}
 		}
 	}
